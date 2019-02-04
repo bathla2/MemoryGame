@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "/images/mgame1.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "/images/mgame2.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "/images/mgame3.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "/images/mgame4.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "/images/mgame5.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "/images/mgame6.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "/images/mgame7.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "/images/mgame8.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "/images/mgame9.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "/images/mgame10.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "/images/mgame11.JPG",
+    "clicked": 0
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "/images/mgame12.JPG",
+    "clicked": 0
+  }
+]
